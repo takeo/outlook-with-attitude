@@ -1,10 +1,13 @@
 # OWAwesome
 by Toby Sterrett
+
 toby.sterrett@microsoft.com
 
 
 ### OVERVIEW
 This userscript is an attempt to make Outlook Web Access bearable, and possibly even awesome. I'm starting with some much needed keyboard navigation. It is currently built using jQuery and is still pretty ghetto. The injection of jQuery uses some stuff that only works on Greasemonkey & Firefox, although I will work to figure out how to make it work in Fluid for some killer SSB action.
+
+Make sure you update the @include with your OWA address
 
 ### WHAT IT DOES
 To start it adds some keyboard navigation, a la Gmail.
