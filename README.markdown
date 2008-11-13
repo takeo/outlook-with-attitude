@@ -1,4 +1,4 @@
-# OWAwesome
+# Outlook With Attitude
 by Toby Sterrett
 
 toby.sterrett@microsoft.com
