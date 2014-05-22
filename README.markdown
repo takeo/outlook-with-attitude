@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/takeo/outlook-with-attitude.png?label=ready&title=Ready)](https://waffle.io/takeo/outlook-with-attitude)
 # Outlook With Attitude
 by Toby Sterrett
 
